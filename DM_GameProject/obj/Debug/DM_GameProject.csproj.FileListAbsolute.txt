@@ -1,0 +1,17 @@
+C:\Users\Danil\source\repos\DM_GameProject\DM_GameProject\bin\Debug\DM_GameProject.exe.config
+C:\Users\Danil\source\repos\DM_GameProject\DM_GameProject\bin\Debug\DM_GameProject.exe
+C:\Users\Danil\source\repos\DM_GameProject\DM_GameProject\bin\Debug\DM_GameProject.pdb
+C:\Users\Danil\source\repos\DM_GameProject\DM_GameProject\obj\Debug\DM_GameProject.csprojAssemblyReference.cache
+C:\Users\Danil\source\repos\DM_GameProject\DM_GameProject\obj\Debug\DM_GameProject.Form1.resources
+C:\Users\Danil\source\repos\DM_GameProject\DM_GameProject\obj\Debug\DM_GameProject.Properties.Resources.resources
+C:\Users\Danil\source\repos\DM_GameProject\DM_GameProject\obj\Debug\DM_GameProject.csproj.GenerateResource.cache
+C:\Users\Danil\source\repos\DM_GameProject\DM_GameProject\obj\Debug\DM_GameProject.csproj.CoreCompileInputs.cache
+C:\Users\Danil\source\repos\DM_GameProject\DM_GameProject\obj\Debug\DM_GameProject.exe
+C:\Users\Danil\source\repos\DM_GameProject\DM_GameProject\obj\Debug\DM_GameProject.pdb
+C:\Users\Danil\source\repos\DM_GameProject\DM_GameProject\obj\Debug\DM_GameProject.Form2.resources
+C:\Users\Danil\source\repos\DM_GameProject\DM_GameProject\obj\Debug\DM_GameProject.Form3.resources
+C:\Users\Danil\source\repos\DM_GameProject\DM_GameProject\bin\Debug\Interop.WMPLib.dll
+C:\Users\Danil\source\repos\DM_GameProject\DM_GameProject\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Danil\source\repos\DM_GameProject\DM_GameProject\obj\Debug\Interop.WMPLib.dll
+C:\Users\Danil\source\repos\DM_GameProject\DM_GameProject\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Danil\source\repos\DM_GameProject\DM_GameProject\obj\Debug\DM_GameProject.csproj.ResolveComReference.cache
